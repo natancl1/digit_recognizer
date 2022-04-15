@@ -5,8 +5,8 @@ O notebook contém alguns conceitos básicos sobre redes neurais, todos os cálc
 
 Foi utilizada para resolver o desafio "Digit Recognizer" do kaggle.com onde obteve-se um score de 0.87667 com 0.1 de taxa de aprendizado e 1000 iterações.
 
+<br>
 
-Fontes:
-
+Fontes:<br>
 https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook<br>
 https://towardsdatascience.com/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1

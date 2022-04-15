@@ -8,5 +8,5 @@ Foi utilizada para resolver o desafio "Digit Recognizer" do kaggle.com onde obte
 
 Fontes:
 
-https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook<br>
 https://towardsdatascience.com/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1
